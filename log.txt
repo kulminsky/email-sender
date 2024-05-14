@@ -1,0 +1,145 @@
+2024-05-05 11:31:18 [WARN] Failed to send email: HTTP error code 400
+2024-05-05 11:33:23 [INFO] 
+2024-05-05 11:33:23 [WARN] Failed to send email: HTTP error code 400
+2024-05-05 11:35:48 [INFO] org.apache.hc.client5.http.entity.mime.MultipartFormEntity@636be97c
+2024-05-05 11:35:48 [WARN] Failed to send email: HTTP error code 400
+2024-05-05 11:42:31 [INFO] {"to":{"email":"mike@mailtrap.io","name":"Mike"},"from":{"email":"mike@mailtrap.io","name":"Mike"},"cc":[{"email":"mike@mailtrap.io","name":"Mike"}],"bcc":[{"email":"mike@mailtrap.io","name":"Mike"}],"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"subject":"Test","text":"Hello, Mike!","html":"<p>Hello, Mike! How are you?</p>","headers":null,"customVariables":null,"category":null}
+2024-05-05 11:42:32 [WARN] Failed to send email: HTTP error code 400
+2024-05-05 11:46:18 [INFO] {"to":{"email":"mike@mailtrap.io","name":"Mike"},"from":{"email":"mike@mailtrap.io","name":"Mike"},"cc":[{"email":"mike@mailtrap.io","name":"Mike"}],"bcc":[{"email":"mike@mailtrap.io","name":"Mike"}],"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"subject":"Test","text":"Hello, Mike!","html":"<p>Hello, Mike! How are you?</p>","headers":null,"customVariables":null,"category":null}
+2024-05-05 11:46:19 [WARN] Failed to send email: HTTP error code 400
+2024-05-05 12:03:53 [INFO] {"to":[{"email":"mike@mailtrap.io","name":"Mike"}],"from":{"email":"mike@mailtrap.io","name":"Mike"},"cc":[{"email":"mike@mailtrap.io","name":"Mike"}],"bcc":[{"email":"mike@mailtrap.io","name":"Mike"}],"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"subject":"Test","text":"Hello, Mike!","html":"<p>Hello, Mike! How are you?</p>","headers":null,"customVariables":null,"category":null}
+2024-05-05 12:03:53 [WARN] Failed to send email: HTTP error code 400
+2024-05-05 12:16:05 [INFO] {"to":[{"email":"mike@mailtrap.io","name":"Mike"}],"from":{"email":"mike@mailtrap.io","name":"Mike"},"cc":[{"email":"mike@mailtrap.io","name":"Mike"}],"bcc":[{"email":"mike@mailtrap.io","name":"Mike"}],"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"subject":"Test","text":"Hello, Mike!","html":"<p>Hello, Mike! How are you?</p>","headers":null,"customVariables":null,"category":null}
+2024-05-05 12:16:06 [WARN] Failed to send email: HTTP error code 400
+2024-05-05 12:22:26 [INFO] {"to":[{"email":"mike@mailtrap.io","name":"Mike"}],"from":{"email":"mike@mailtrap.io","name":"Mike"},"cc":[{"email":"mike@mailtrap.io","name":"Mike"}],"bcc":[{"email":"mike@mailtrap.io","name":"Mike"}],"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"subject":"Test","text":"Hello, Mike!","html":"<p>Hello, Mike! How are you?</p>","headers":null,"customVariables":null,"category":null}
+2024-05-05 12:22:26 [WARN] Failed to send email: HTTP error code 400
+2024-05-05 12:24:54 [INFO] 400 Bad Request HTTP/1.1
+2024-05-05 12:28:05 [INFO] {"to":[{"email":"mike@mailtrap.io","name":"Mike"}],"from":{"email":"mike@mailtrap.io","name":"Mike"},"cc":[{"email":"mike@mailtrap.io","name":"Mike"}],"bcc":[{"email":"mike@mailtrap.io","name":"Mike"}],"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"subject":"Test","text":"Hello, Mike!","html":"<p>Hello, Mike! How are you?</p>","headers":{"batch_id":"PSJ-12","user_id":"45982"},"customVariables":{"X-Message-Source":"dev.mydomain.com"},"category":"Test API"}
+2024-05-05 12:28:06 [WARN] Failed to send email: HTTP error code 400
+2024-05-05 12:29:29 [INFO] {"to":[{"email":"mike@mailtrap.io","name":"Mike"}],"cc":[{"email":"mike@mailtrap.io","name":"Mike"}],"bcc":[{"email":"mike@mailtrap.io","name":"Mike"}],"from":{"email":"mike@mailtrap.io","name":"Mike"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"customVariables":{"X-Message-Source":"dev.mydomain.com"},"headers":{"user_id":"45982","batch_id":"PSJ-12"},"subject":"Test","text":"Hello, Mike!","html":"<p>Hello, Mike! How are you?</p>","category":"Test API"}
+2024-05-05 12:29:30 [WARN] Failed to send email: HTTP error code 400
+2024-05-05 12:31:15 [INFO] {"to":[{"email":"mike@mailtrap.io","name":"Mike"}],"cc":[{"email":"mike@mailtrap.io","name":"Mike"}],"bcc":[{"email":"mike@mailtrap.io","name":"Mike"}],"from":{"email":"mike@mailtrap.io","name":"Mike"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"customVariables":{"user_id":"45982","batch_id":"PSJ-12"},"headers":{"X-Message-Source":"dev.mydomain.com"},"subject":"Test","text":"Hello, Mike!","html":"<p>Hello, Mike! How are you?</p>","category":"Test API"}
+2024-05-05 12:31:15 [WARN] Failed to send email: HTTP error code 400
+2024-05-05 12:34:05 [INFO] {"to":[{"email":"mike@mailtrap.io","name":"Mike"}],"cc":[{"email":"mike@mailtrap.io","name":"Mike"}],"bcc":[{"email":"mike@mailtrap.io","name":"Mike"}],"from":{"email":"mike@mailtrap.io","name":"Mike"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"customVariables":{"batch_id":"PSJ-12","user_id":"45982"},"headers":{"X-Message-Source":"dev.mydomain.com"},"subject":"Test","text":"Hello, Mike!","html":"<p>Hello, Mike! How are you?</p>","category":"Test API"}
+2024-05-05 12:34:05 [WARN] Failed to send email: HTTP error code 400
+2024-05-05 12:34:05 [INFO] Response body: {"errors":["unknown field \"customVariables\""]}
+2024-05-05 12:34:44 [INFO] {"to":[{"email":"mike@mailtrap.io","name":"Mike"}],"cc":[{"email":"mike@mailtrap.io","name":"Mike"}],"bcc":[{"email":"mike@mailtrap.io","name":"Mike"}],"from":{"email":"mike@mailtrap.io","name":"Mike"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":{"batch_id":"PSJ-12","user_id":"45982"},"headers":{"X-Message-Source":"dev.mydomain.com"},"subject":"Test","text":"Hello, Mike!","html":"<p>Hello, Mike! How are you?</p>","category":"Test API"}
+2024-05-05 12:34:45 [WARN] Failed to send email: HTTP error code 400
+2024-05-05 12:34:45 [INFO] Response body: {"errors":["address mike@mailtrap.io is not unique in the request","address mike@mailtrap.io is not unique in the request"]}
+2024-05-05 12:35:12 [INFO] {"to":[{"email":"mike@mailtrap.io","name":"Mike"}],"cc":[{"email":"mike4@mailtrap.io","name":"Mike"}],"bcc":[{"email":"mike3@mailtrap.io","name":"Mike"}],"from":{"email":"mike2@mailtrap.io","name":"Mike"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":{"user_id":"45982","batch_id":"PSJ-12"},"headers":{"X-Message-Source":"dev.mydomain.com"},"subject":"Test","text":"Hello, Mike!","html":"<p>Hello, Mike! How are you?</p>","category":"Test API"}
+2024-05-05 12:35:13 [WARN] Failed to send email: HTTP error code 401
+2024-05-05 12:35:13 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-05 12:36:13 [INFO] {"to":[{"email":"mike@mailtrap.io","name":"Mike"}],"cc":[{"email":"mike4@mailtrap.io","name":"Mike"}],"bcc":[{"email":"mike3@mailtrap.io","name":"Mike"}],"from":{"email":"mike2@mailtrap.io","name":"Mike"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":{"user_id":"45982","batch_id":"PSJ-12"},"headers":{"X-Message-Source":"dev.mydomain.com"},"subject":"Test","text":"Hello, Mike!","html":"<p>Hello, Mike! How are you?</p>","category":"Test API"}
+2024-05-05 12:36:14 [WARN] Failed to send email: HTTP error code 401
+2024-05-05 12:36:14 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-05 12:36:26 [INFO] {"to":[{"email":"mike@mailtrap.io","name":"Mike"}],"cc":[{"email":"mike4@mailtrap.io","name":"Mike"}],"bcc":[{"email":"mike3@mailtrap.io","name":"Mike"}],"from":{"email":"mike2@mailtrap.io","name":"Mike"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":{"batch_id":"PSJ-12","user_id":"45982"},"headers":{"X-Message-Source":"dev.mydomain.com"},"subject":"Test","text":"Hello, Mike!","html":"<p>Hello, Mike! How are you?</p>","category":"Test API"}
+2024-05-05 12:36:27 [WARN] Failed to send email: HTTP error code 401
+2024-05-05 12:36:27 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-05 12:36:51 [INFO] {"to":[{"email":"mike@mailtrap.io","name":"Mike"}],"cc":[{"email":"mike4@mailtrap.io","name":"Mike"}],"bcc":[{"email":"mike3@mailtrap.io","name":"Mike"}],"from":{"email":"mike2@mailtrap.io","name":"Mike"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":{"user_id":"45982","batch_id":"PSJ-12"},"headers":{"X-Message-Source":"dev.mydomain.com"},"subject":"Test","text":"Hello, Mike!","html":"<p>Hello, Mike! How are you?</p>","category":"Test API"}
+2024-05-05 12:36:51 [WARN] Failed to send email: HTTP error code 401
+2024-05-05 12:36:51 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-05 12:37:33 [INFO] {"to":[{"email":"mike@mailtrap.io","name":"Mike"}],"cc":[{"email":"mike4@mailtrap.io","name":"Mike"}],"bcc":[{"email":"mike3@mailtrap.io","name":"Mike"}],"from":{"email":"mike2@mailtrap.io","name":"Mike"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":{"batch_id":"PSJ-12","user_id":"45982"},"headers":{"X-Message-Source":"dev.mydomain.com"},"subject":"Test","text":"Hello, Mike!","html":"<p>Hello, Mike! How are you?</p>","category":"Test API"}
+2024-05-05 12:37:34 [WARN] Failed to send email: HTTP error code 401
+2024-05-05 12:37:34 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-05 12:40:16 [INFO] {"to":[{"email":"mike@mailtrap.io","name":"Mike"}],"cc":[{"email":"mike4@mailtrap.io","name":"Mike"}],"bcc":[{"email":"mike3@mailtrap.io","name":"Mike"}],"from":{"email":"mike2@mailtrap.io","name":"Mike"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":{"batch_id":"PSJ-12","user_id":"45982"},"headers":{"X-Message-Source":"dev.mydomain.com"},"subject":"Test","text":"Hello, Mike!","html":"<p>Hello, Mike! How are you?</p>","category":"Test API"}
+2024-05-05 12:40:16 [WARN] Failed to send email: HTTP error code 401
+2024-05-05 12:40:16 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-05 12:40:35 [INFO] {"to":[{"email":"mike@mailtrap.io","name":"Mike"}],"cc":[{"email":"mike4@mailtrap.io","name":"Mike"}],"bcc":[{"email":"mike3@mailtrap.io","name":"Mike"}],"from":{"email":"mike2@mailtrap.io","name":"Mike"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":{"batch_id":"PSJ-12","user_id":"45982"},"headers":{"X-Message-Source":"dev.mydomain.com"},"subject":"Test","text":"Hello, Mike!","html":"<p>Hello, Mike! How are you?</p>","category":"Test API"}
+2024-05-05 12:40:35 [WARN] Failed to send email: HTTP error code 401
+2024-05-05 12:40:35 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-05 12:47:26 [INFO] {"to":[{"email":"to@example.com","name":"Mike"}],"cc":null,"bcc":null,"from":{"email":"from@example.com","name":"Mike"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":{"user_id":"45982","batch_id":"PSJ-12"},"headers":{"X-Message-Source":"dev.mydomain.com"},"subject":"Test","text":"Hello!","html":"<p>Hello! How are you?</p>","category":"Test API"}
+2024-05-05 12:47:26 [WARN] Failed to send email: HTTP error code 401
+2024-05-05 12:47:26 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-05 12:53:06 [INFO] {"to":[{"email":"to@example.com","name":"Mike"}],"cc":null,"bcc":null,"from":{"email":"from@example.com","name":"Mike"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":{"batch_id":"PSJ-12","user_id":"45982"},"headers":{"X-Message-Source":"dev.mydomain.com"},"subject":"Test","text":"Hello!","html":"<p>Hello! How are you?</p>","category":"Test API"}
+2024-05-05 12:53:07 [WARN] Failed to send email: HTTP error code 401
+2024-05-05 12:53:07 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-05 12:55:49 [INFO] {"to":[{"email":"to@example.com","name":"Mike"}],"cc":null,"bcc":null,"from":{"email":"from@example.com","name":"Mike"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":{"user_id":"45982","batch_id":"PSJ-12"},"headers":{"X-Message-Source":"dev.mydomain.com"},"subject":"Test","text":"Hello!","html":"<p>Hello! How are you?</p>","category":"Test API"}
+2024-05-05 12:55:50 [WARN] Failed to send email: HTTP error code 401
+2024-05-05 12:55:50 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-05 13:02:04 [INFO] {"to":[{"email":"to@example.com","name":"Mike"}],"cc":[{"email":"mike4@mailtrap.io","name":"Mike"}],"bcc":[{"email":"mike3@mailtrap.io","name":"Mike"}],"from":{"email":"from@example.com","name":"Mike"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":{"user_id":"45982","batch_id":"PSJ-12"},"headers":{"X-Message-Source":"dev.mydomain.com"},"subject":"Test","text":"Hello!","html":"<p>Hello! How are you?</p>","category":"Test API"}
+2024-05-05 13:02:04 [WARN] Failed to send email: HTTP error code 401
+2024-05-05 13:02:04 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-07 16:36:14 [INFO] {"to":[{"email":"to@example.com","name":"Mike"}],"cc":null,"bcc":null,"from":{"email":"kulminsky@gmail.com","name":"Andrii"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":null,"headers":null,"subject":"Test","text":"Hello!","html":"<p>Hello! How are you?</p>","category":"Test API"}
+2024-05-07 16:36:14 [WARN] Failed to send email: HTTP error code 401
+2024-05-07 16:36:14 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-07 16:36:35 [INFO] {"to":[{"email":"9c71c51ce7-1dfbe7+1@inbox.mailtrap.io","name":"Mike"}],"cc":null,"bcc":null,"from":{"email":"kulminsky@gmail.com","name":"Andrii"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":null,"headers":null,"subject":"Test","text":"Hello!","html":"<p>Hello! How are you?</p>","category":"Test API"}
+2024-05-07 16:36:35 [WARN] Failed to send email: HTTP error code 401
+2024-05-07 16:36:35 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-07 16:38:20 [INFO] {"to":[{"email":"hi@demomailtrap.com","name":"Mike"}],"cc":null,"bcc":null,"from":{"email":"kulminsky@gmail.com","name":"Andrii"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":null,"headers":null,"subject":"Test","text":"Hello!","html":"<p>Hello! How are you?</p>","category":"Test API"}
+2024-05-07 16:38:21 [WARN] Failed to send email: HTTP error code 401
+2024-05-07 16:38:21 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-09 11:31:00 [INFO] {"to":[{"email":"from@demomailtrap.com","name":"Mike"}],"cc":null,"bcc":null,"from":{"email":"kulminsky@gmail.com","name":"Andrii"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":null,"headers":null,"subject":"Test","text":"Hello!","html":"<p>Hello! How are you?</p>","category":"Test API"}
+2024-05-09 11:31:01 [WARN] Failed to send email: HTTP error code 401
+2024-05-09 11:31:01 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-09 11:31:16 [INFO] {"to":[{"email":"from@example.com","name":"Mike"}],"cc":null,"bcc":null,"from":{"email":"kulminsky@gmail.com","name":"Andrii"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":null,"headers":null,"subject":"Test","text":"Hello!","html":"<p>Hello! How are you?</p>","category":"Test API"}
+2024-05-09 11:31:17 [WARN] Failed to send email: HTTP error code 401
+2024-05-09 11:31:17 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-09 11:32:57 [INFO] {"to":[{"email":"Test@example.com","name":"Mike"}],"cc":null,"bcc":null,"from":{"email":"kulminsky@gmail.com","name":"Andrii"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":null,"headers":null,"subject":"Test","text":"Hello!","html":"<p>Hello! How are you?</p>","category":"Test API"}
+2024-05-09 11:32:58 [WARN] Failed to send email: HTTP error code 401
+2024-05-09 11:32:58 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-09 12:10:19 [INFO] {"to":[{"email":"test@demomailtrap2.com","name":"Mike"}],"cc":null,"bcc":null,"from":{"email":"kulminsky@gmail.com","name":"Andrii"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":null,"headers":null,"subject":"Test","text":"Hello!","html":"<p>Hello! How are you?</p>","category":"Test API"}
+2024-05-09 12:10:20 [WARN] Failed to send email: HTTP error code 401
+2024-05-09 12:10:20 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-09 12:11:31 [INFO] {"to":[{"email":"dmarc@smtp.mailtrap.live","name":"Mike"}],"cc":null,"bcc":null,"from":{"email":"kulminsky@gmail.com","name":"Andrii"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":null,"headers":null,"subject":"Test","text":"Hello!","html":"<p>Hello! How are you?</p>","category":"Test API"}
+2024-05-09 12:11:32 [WARN] Failed to send email: HTTP error code 401
+2024-05-09 12:11:32 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-09 12:23:32 [INFO] {"to":[{"email":"mailtrap@demomailtrap2.com","name":"Mike"}],"cc":null,"bcc":null,"from":{"email":"kulminsky@gmail.com","name":"Andrii"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":null,"headers":null,"subject":"Test","text":"Hello!","html":"<p>Hello! How are you?</p>","category":"Test API"}
+2024-05-09 12:23:33 [WARN] Failed to send email: HTTP error code 401
+2024-05-09 12:23:33 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-09 12:23:42 [INFO] {"to":[{"email":"mailtrap@demomailtrap2.com","name":"Mike"}],"cc":null,"bcc":null,"from":{"email":"kulminsky@gmail.com","name":"Andrii"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":null,"headers":null,"subject":"Test","text":"Hello!","html":"<p>Hello! How are you?</p>","category":"Test API"}
+2024-05-09 12:23:42 [WARN] Failed to send email: HTTP error code 401
+2024-05-09 12:23:42 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-09 12:49:21 [INFO] {"to":[{"email":"test@example.com","name":"John Doe"}],"cc":null,"bcc":null,"from":{"email":"sender@example.com","name":"Sender"},"attachments":[],"custom_variables":null,"headers":null,"subject":"Test Subject","text":"Test Message","html":null,"category":null}
+2024-05-09 12:49:22 [WARN] Failed to send email: HTTP error code 401
+2024-05-09 12:49:22 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-09 12:51:12 [INFO] {"to":[{"email":"test@example.com","name":"John Doe"}],"cc":null,"bcc":null,"from":{"email":"sender@example.com","name":"Sender"},"attachments":[],"custom_variables":null,"headers":null,"subject":"Test Subject","text":"Test Message","html":null,"category":null}
+2024-05-09 12:51:13 [WARN] Failed to send email: HTTP error code 401
+2024-05-09 12:51:13 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-09 12:53:16 [INFO] {"to":[{"email":"test@example.com","name":"John Doe"}],"cc":null,"bcc":null,"from":{"email":"sender@example.com","name":"Sender"},"attachments":[],"custom_variables":null,"headers":null,"subject":"Test Subject","text":"Test Message","html":null,"category":null}
+2024-05-09 12:53:17 [WARN] Failed to send email: HTTP error code 401
+2024-05-09 12:53:17 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-09 12:54:42 [INFO] {"to":[{"email":"test@example.com","name":"John Doe"}],"cc":null,"bcc":null,"from":{"email":"sender@example.com","name":"Sender"},"attachments":[],"custom_variables":null,"headers":null,"subject":"Test Subject","text":"Test Message","html":null,"category":null}
+2024-05-09 12:54:42 [WARN] Failed to send email: HTTP error code 401
+2024-05-09 12:54:42 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-09 13:02:44 [INFO] {"to":[{"email":"test@example.com","name":"John Doe"}],"cc":null,"bcc":null,"from":{"email":"sender@example.com","name":"Sender"},"attachments":[],"custom_variables":null,"headers":null,"subject":"Test Subject","text":"Test Message","html":null,"category":null}
+2024-05-09 13:02:45 [WARN] Failed to send email: HTTP error code 401
+2024-05-09 13:02:45 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-09 13:02:45 [INFO] {"to":[{"email":"test@example.com","name":"John Doe"}],"cc":null,"bcc":null,"from":{"email":"sender@example.com","name":"Sender"},"attachments":[],"custom_variables":null,"headers":null,"subject":"Test Subject","text":"Test Message","html":null,"category":null}
+2024-05-09 13:02:46 [WARN] Failed to send email: HTTP error code 401
+2024-05-09 13:02:46 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-09 13:07:41 [INFO] {"to":[{"email":"test@example.com","name":"John Doe"}],"cc":null,"bcc":null,"from":{"email":"sender@example.com","name":"Sender"},"attachments":[],"custom_variables":null,"headers":null,"subject":"Test Subject","text":"Test Message","html":null,"category":null}
+2024-05-09 13:07:42 [WARN] Failed to send email: HTTP error code 401
+2024-05-09 13:07:42 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-09 13:07:42 [INFO] {"to":[{"email":"test@example.com","name":"John Doe"}],"cc":null,"bcc":null,"from":{"email":"sender@example.com","name":"Sender"},"attachments":[],"custom_variables":null,"headers":null,"subject":"Test Subject","text":"Test Message","html":null,"category":null}
+2024-05-09 13:07:42 [WARN] Failed to send email: HTTP error code 401
+2024-05-09 13:07:42 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-09 13:08:03 [INFO] {"to":[{"email":"test@example.com","name":"John Doe"}],"cc":null,"bcc":null,"from":{"email":"sender@example.com","name":"Sender"},"attachments":[],"custom_variables":null,"headers":null,"subject":"Test Subject","text":"Test Message","html":null,"category":null}
+2024-05-09 13:08:04 [WARN] Failed to send email: HTTP error code 401
+2024-05-09 13:08:04 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-09 13:08:04 [INFO] {"to":[{"email":"test@example.com","name":"John Doe"}],"cc":null,"bcc":null,"from":{"email":"sender@example.com","name":"Sender"},"attachments":[],"custom_variables":null,"headers":null,"subject":"Test Subject","text":"Test Message","html":null,"category":null}
+2024-05-09 13:08:04 [WARN] Failed to send email: HTTP error code 401
+2024-05-09 13:08:04 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-09 13:09:14 [INFO] {"to":[{"email":"test@example.com","name":"John Doe"}],"cc":null,"bcc":null,"from":{"email":"sender@example.com","name":"Sender"},"attachments":[],"custom_variables":null,"headers":null,"subject":"Test Subject","text":"Test Message","html":null,"category":null}
+2024-05-09 13:09:15 [WARN] Failed to send email: HTTP error code 401
+2024-05-09 13:09:15 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-09 13:09:15 [INFO] {"to":[{"email":"test@example.com","name":"John Doe"}],"cc":null,"bcc":null,"from":{"email":"sender@example.com","name":"Sender"},"attachments":[],"custom_variables":null,"headers":null,"subject":"Test Subject","text":"Test Message","html":null,"category":null}
+2024-05-09 13:09:15 [WARN] Failed to send email: HTTP error code 401
+2024-05-09 13:09:15 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-09 13:21:08 [INFO] {"to":[{"email":"test@example.com","name":"John Doe"}],"cc":null,"bcc":null,"from":{"email":"sender@example.com","name":"Sender"},"attachments":[{"content":"","filename":"test.pdf","type":"application/pdf","disposition":"attachment"},{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":null,"headers":null,"subject":"Test Subject","text":"Test Message","html":null,"category":null}
+2024-05-09 13:21:09 [WARN] Failed to send email: HTTP error code 400
+2024-05-09 13:21:09 [INFO] Response body: {"errors":["attachment 0: content required"]}
+2024-05-09 13:23:39 [INFO] {"to":[{"email":"test@example.com","name":"John Doe"}],"cc":null,"bcc":null,"from":{"email":"sender@example.com","name":"Sender"},"attachments":[{"content":"","filename":"test.pdf","type":"application/pdf","disposition":"attachment"},{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":null,"headers":null,"subject":"Test Subject","text":"Test Message","html":null,"category":null}
+2024-05-09 13:23:40 [WARN] Failed to send email: HTTP error code 400
+2024-05-09 13:23:40 [INFO] Response body: {"errors":["attachment 0: content required"]}
+2024-05-09 13:23:50 [INFO] {"to":[{"email":"test@example.com","name":"John Doe"}],"cc":null,"bcc":null,"from":{"email":"sender@example.com","name":"Sender"},"attachments":[{"content":"","filename":"test.pdf","type":"application/pdf","disposition":"attachment"},{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":null,"headers":null,"subject":"Test Subject","text":"Test Message","html":null,"category":null}
+2024-05-09 13:23:51 [WARN] Failed to send email: HTTP error code 400
+2024-05-09 13:23:51 [INFO] Response body: {"errors":["attachment 0: content required"]}
+2024-05-09 13:24:25 [INFO] {"to":[{"email":"test@example.com","name":"John Doe"}],"cc":null,"bcc":null,"from":{"email":"sender@example.com","name":"Sender"},"attachments":[{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":null,"headers":null,"subject":"Test Subject","text":"Test Message","html":null,"category":null}
+2024-05-09 13:24:25 [WARN] Failed to send email: HTTP error code 401
+2024-05-09 13:24:25 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-09 13:25:09 [INFO] {"to":[{"email":"test@example.com","name":"John Doe"}],"cc":null,"bcc":null,"from":{"email":"sender@example.com","name":"Sender"},"attachments":[{"content":"SGVsbG8h","filename":"test.html","type":"application/octet-stream","disposition":"attachment"},{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":null,"headers":null,"subject":"Test Subject","text":"Test Message","html":null,"category":null}
+2024-05-09 13:25:09 [WARN] Failed to send email: HTTP error code 401
+2024-05-09 13:25:09 [INFO] Response body: {"errors":["Unauthorized"]}
+2024-05-09 13:39:25 [INFO] {"to":[{"email":"test@example.com","name":"John Doe"}],"cc":null,"bcc":null,"from":{"email":"sender@example.com","name":"Sender"},"attachments":[{"content":"SGVsbG8h","filename":"test.html","type":"text/html","disposition":"attachment"},{"content":"SGVsbG8h","filename":"test.txt","type":"text/plain","disposition":"attachment"}],"custom_variables":null,"headers":null,"subject":"Test Subject","text":"Test Message","html":null,"category":null}
+2024-05-09 13:39:25 [WARN] Failed to send email: HTTP error code 401
+2024-05-09 13:39:25 [INFO] Response body: {"errors":["Unauthorized"]}
